@@ -1,0 +1,16 @@
+Ian@ian-HP-Convertible-x360-11-ab1XX:~$ g++ heb2.cpp
+ian@ian-HP-Convertible-x360-11-ab1XX:~$ ./a.out
+שלום peace 
+ian@ian-HP-Convertible-x360-11-ab1XX:~$ g++ heb2.cpp
+ian@ian-HP-Convertible-x360-11-ab1XX:~$ ./a.out
+  שלום  peace 
+ian@ian-HP-Convertible-x360-11-ab1XX:~$ cat heb2.cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  cout <<  "  שלום " << " peace "<< endl;
+  return 0;
+}
+ian@ian-HP-Convertible-x360-11-ab1XX:~$ 
