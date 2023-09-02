@@ -1,8 +1,6 @@
 # hebrew-text-print-in-c-
  Recent
 c++ code to print hebrew
-generate fortran code calling c subroutine. check and correct for syntax errors
-fortran program calling c subroutine.
 Windsor VIC, Australia
 Based on your places (home) • Update location
 profile picture
