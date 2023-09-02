@@ -32,6 +32,7 @@ To compile and run this code, you can use the following steps:
     Save the code as a file called print_hebrew.cpp.
     Open a terminal window and navigate to the directory where the file is saved.
     Run the following command to compile the code:
+    
 
 g++ -o print_hebrew print_hebrew.cpp
 
@@ -44,5 +45,24 @@ This will create an executable file called print_hebrew.
 This will print the Hebrew word "שלום" to the console.
 
 I hope this helps!
+------------------------------------------------------------------------------------------------------------------
+
+an@ian-HP-Convertible-x360-11-ab1XX:~$ g++ heb2.cpp
+ian@ian-HP-Convertible-x360-11-ab1XX:~$ ./a.out
+שלום peace 
+ian@ian-HP-Convertible-x360-11-ab1XX:~$ g++ heb2.cpp
+ian@ian-HP-Convertible-x360-11-ab1XX:~$ ./a.out
+  שלום  peace 
+ian@ian-HP-Convertible-x360-11-ab1XX:~$ cat heb2.cpp
+#include <iostream>
+
+using namespace std;
+
+int main() {
+  cout <<  "  שלום " << " peace "<< endl;
+  return 0;
+}
+ian@ian-HP-Convertible-x360-11-ab1XX:~$ 
+
 
 Bard may display inaccurate or offensive information that doesn’t represent Google’s views. Bard Privacy Notice
