@@ -45,9 +45,10 @@ This will create an executable file called print_hebrew.
 This will print the Hebrew word "שלום" to the console.
 
 I hope this helps!
-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------
 
-an@ian-HP-Convertible-x360-11-ab1XX:~$ g++ heb2.cpp
+Bard may display inaccurate or offensive information that doesn’t represent Google’s views. Bard Privacy Notice
+Ian@ian-HP-Convertible-x360-11-ab1XX:~$ g++ heb2.cpp
 ian@ian-HP-Convertible-x360-11-ab1XX:~$ ./a.out
 שלום peace 
 ian@ian-HP-Convertible-x360-11-ab1XX:~$ g++ heb2.cpp
@@ -63,6 +64,3 @@ int main() {
   return 0;
 }
 ian@ian-HP-Convertible-x360-11-ab1XX:~$ 
-
-
-Bard may display inaccurate or offensive information that doesn’t represent Google’s views. Bard Privacy Notice
